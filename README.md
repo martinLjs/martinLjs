@@ -17,6 +17,3 @@ My competences are:
 - Material UI
 - REST API (Axios)
 
-In my repositories you can see the examples of projects:
-- Weather-App
-- Taxi-App
